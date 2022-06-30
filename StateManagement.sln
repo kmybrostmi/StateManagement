@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagement.Cookies", "StateManagement.Cookies\StateManagement.Cookies.csproj", "{C148A943-4E33-4273-806F-EF1FDCDF9879}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagement.InMemoryCache", "StateManagement.InMemoryCache\StateManagement.InMemoryCache.csproj", "{5FAF4543-EE9E-47DB-98CB-2CDE321A4665}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C148A943-4E33-4273-806F-EF1FDCDF9879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C148A943-4E33-4273-806F-EF1FDCDF9879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C148A943-4E33-4273-806F-EF1FDCDF9879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FAF4543-EE9E-47DB-98CB-2CDE321A4665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAF4543-EE9E-47DB-98CB-2CDE321A4665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAF4543-EE9E-47DB-98CB-2CDE321A4665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAF4543-EE9E-47DB-98CB-2CDE321A4665}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
